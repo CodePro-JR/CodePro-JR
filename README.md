@@ -4,6 +4,6 @@
 <hr>
 
 <pre>
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: Java, PHP
 </pre>
 <hr>
