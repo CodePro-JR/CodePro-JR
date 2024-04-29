@@ -10,10 +10,9 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=CodePro-JR.CodePro-JR&"  />
+  <!--<img src="https://visitor-badge.laobi.icu/badge?page_id=CodePro-JR.CodePro-JR&"  /> -->
+  [![](https://visitcount.itsvg.in/api?id=CodePro-JR&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=CodePro-JR&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ###
 
