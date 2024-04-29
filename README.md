@@ -1,7 +1,9 @@
 ###
 
 <h1 align="center">Hola 👋, soy Joselito Rodriguez Sarmiento</h1>
-<h3 align="center">Desarrollador Web</h3>
+<!-- <h3 align="center">Desarrollador Web</h3> -->
+<hr>
+###
 
 <div align="center">
   <img height="150" src="https://placehold.co/800x150/orange/white?text=CodePro-JR"  />
