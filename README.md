@@ -4,6 +4,8 @@
 <hr>
 
 <pre>
-🌟 Main languages: Java, PHP
+💻 Soy desarrollador web.
+🌟 Main languages: Java, PHP.
+🚩 Interesado en el desarrollo de aplicaciones Full Stack.
 </pre>
 <hr>
