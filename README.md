@@ -4,7 +4,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://placehold.co/800x100/orange/white?text=CodePro-JR"  />
+  <img height="150" src="https://placehold.co/800x150/orange/white?text=CodePro-JR"  />
 </div>
 
 ###
