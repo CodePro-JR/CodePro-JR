@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/CodePro-JR" target="_blank">
+  <a href="https://www.youtube.com/@CodePro-JR" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="21" alt="youtube logo"  />
   </a>
   <a href="https://github.com/CodePro-JR" target="_blank">
